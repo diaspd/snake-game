@@ -1,6 +1,6 @@
-<title align="center"> 
+<p align="center"> 
     Snake-Game
-</title> 
+</p> 
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="./image.png" src="./image.png" width="100%">
+  <img alt="./image.png" src="./image.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
