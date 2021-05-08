@@ -3,7 +3,7 @@
 </p> 
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>;
+  <a href="#-tecnologias">Tecnologias</a>
 </p>
 
 <p align="center">
@@ -36,5 +36,7 @@ Feito com ♥ by Pedro Dias :wave: [Me siga nas redes sociais!](😎)
 # https://www.twitch.tv/diasgm_pdr
 
 Se puder dar uma estrelinha, eu agradeço 🤩
+If you can give a little star, I appreciate it 🤩
 
+Para você rodar este jogo, você só precisa entrar no arquivo onde está este jogo e no seu console você colocará este comando python snake.py
 For you run this game, you just need to enter on the file where this game is and on your console you'll put this command python snake.py
