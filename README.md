@@ -29,11 +29,11 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 Neste projeto fiz o clássico jogo da cobrinha💰
 
 
-Feito com ♥ by Pedro Dias :wave: [Me siga nas redes sociais!](😎)
-# https://www.instagram.com/dias_pdr/
-# https://www.facebook.com/PedroDias24/
-# https://twitter.com/diaspdr_1
-# https://www.twitch.tv/diasgm_pdr
+Feito com ♥ by Pedro Dias :wave: [Me siga nas redes sociais!](😎) <br>
+# https://www.instagram.com/dias_pdr/ <br> 
+# https://www.facebook.com/PedroDias24/ <br>
+# https://twitter.com/diaspdr_1 <br>
+# https://www.twitch.tv/diasgm_pdr <br>
 
 Se puder dar uma estrelinha, eu agradeço 🤩
 If you can give a little star, I appreciate it 🤩
