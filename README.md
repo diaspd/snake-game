@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center"> 
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -13,14 +13,13 @@
   <img alt="./image.png" src="./image.png" width="40%">
 </p>
 
-## 🚀 Tecnologias
+## 💻 Technologies
 
-Esse projeto foi desenvolvido com a seguinte tecnologia:
+Esse projeto foi desenvolvido com as seguinte tecnologia:
+-python
 
--Python 
 
-
-## 💻 Projeto
+## 💻 Project
 Neste projeto fiz o clássico jogo da cobrinha💰
 
 
