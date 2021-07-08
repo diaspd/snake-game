@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguinte tecnologia:
 -python
 
 
-## 💻 Project
+## 📄 Project
 Neste projeto fiz o clássico jogo da cobrinha💰
 
 
