@@ -15,8 +15,8 @@
 
 ## 💻 Technologies
 
-Esse projeto foi desenvolvido com as seguinte tecnologia:
--python
+Esse projeto foi desenvolvido com a seguinte tecnologia:
+- python
 
 
 ## 📄 Project
@@ -33,5 +33,6 @@ Se puder dar uma estrelinha, eu agradeço 🤩
 If you can give a little star, I appreciate it 🤩
 
 Para você rodar este jogo, você só precisa entrar no arquivo onde está este jogo e no seu console você colocará este comando python snake.py 
-<br>
+
+
 For you run this game, you just need to enter on the file where this game is and on your console you'll put this command python snake.py
