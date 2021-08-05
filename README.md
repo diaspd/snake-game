@@ -18,6 +18,7 @@
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 - python
 
+<br>
 
 ## 📄 Project
 Neste projeto fiz o clássico jogo da cobrinha💰
@@ -25,6 +26,7 @@ Neste projeto fiz o clássico jogo da cobrinha💰
 
 Feito com ♥ by Pedro Dias :wave: Me siga nas redes sociais!(😎) 
 <br>
+
 https://www.instagram.com/dias_pdr/ <br> 
 
 https://www.facebook.com/PedroDias24/ <br>
