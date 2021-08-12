@@ -15,13 +15,13 @@
 
 ## 💻 Technologies
 
-Esse projeto foi desenvolvido com a seguinte tecnologia:
+This project was developed with the following technologies:
 - python
 
 <br>
 
 ## 📄 Project
-Neste projeto fiz o clássico jogo da cobrinha💰
+In this project I made the classic snake game💰
 
 
 Feito com ♥ by Pedro Dias :wave: Me siga nas redes sociais!(😎) 
