@@ -15,7 +15,7 @@
 
 ## 💻 Technologies
 
-This project was developed with the following technologies:
+This project was developed with the following technologie:
 - python
 
 <br>
