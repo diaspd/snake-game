@@ -21,7 +21,7 @@ This project was developed with the following technologie:
 <br>
 
 ## 📄 Project
-In this project I made the classic snake game💰
+💰 In this project I made the classic snake game.
 
 
 Feito com ♥ by Pedro Dias :wave: Me siga nas redes sociais!(😎) 
