@@ -17,7 +17,7 @@
 
 This project was developed with the following technologie:
 
-<b> - Python </b>
+- <b> Python </b>
 
 <br>
 
