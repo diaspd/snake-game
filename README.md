@@ -16,7 +16,7 @@
 ## 💻 Technologies
 
 This project was developed with the following technologie:
-- python
+<b> - Python </b>
 
 <br>
 
