@@ -13,6 +13,24 @@
   <img alt="./image.png" src="./image.png" width="40%">
 </p>
 
+## 🚀 Getting started
+
+Clone the project and access the folder.
+
+```bash
+$ git@github.com:diaspd/
+$ cd 
+```
+
+Follow the steps below:
+```bash
+# Install the dependencies
+$ npm i
+
+# Start the project
+$ npm start
+```
+
 ## 💻 Technologies
 
 This project was developed with the following technologie:
