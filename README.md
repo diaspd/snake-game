@@ -25,7 +25,8 @@ $ cd
 Follow the steps below:
 ```bash
 # Install the dependencies
-$ 
+$-pip install pygame
+$-pip install random
 
 # Start the project
 $ python snake.py
