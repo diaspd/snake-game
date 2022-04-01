@@ -18,17 +18,17 @@
 Clone the project and access the folder.
 
 ```bash
-$ git@github.com:diaspd/
+$ git@github.com:/diaspd/Snake-Game.git
 $ cd 
 ```
 
 Follow the steps below:
 ```bash
 # Install the dependencies
-$ npm i
+$ 
 
 # Start the project
-$ npm start
+$ python snake.py
 ```
 
 ## 💻 Technologies
@@ -56,8 +56,3 @@ https://www.twitch.tv/diasgm_pdr <br>
 
 Se puder dar uma estrelinha, eu agradeço 🤩
 If you can give a little star, I appreciate it 🤩
-
-Para você rodar este jogo, você só precisa entrar no arquivo onde está este jogo e no seu console você colocará este comando "python snake.py".
-
-
-For you run this game, you just need to enter on the file where this game is and on your console you'll put this command "python snake.py".
