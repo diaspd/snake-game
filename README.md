@@ -55,5 +55,4 @@ https://twitter.com/diaspdr_1 <br>
 
 https://www.twitch.tv/diasgm_pdr <br>
 
-Se puder dar uma estrelinha, eu agradeço 🤩
 If you can give a little star, I appreciate it 🤩
