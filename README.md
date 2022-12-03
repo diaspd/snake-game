@@ -18,7 +18,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git@github.com:/diaspd/Snake-Game.git
+$ git clone git@github.com:/diaspd/Snake-Game.git
 $ cd 
 ```
 
@@ -47,13 +47,5 @@ This project was developed with the following technologie:
 
 Feito com ♥ by Pedro Dias :wave: Me siga nas redes sociais!
 <br>
-
-https://www.instagram.com/dias_pdr/ <br> 
-
-https://www.facebook.com/PedroDias24/ <br>
-
-https://twitter.com/diaspdr_1 <br>
-
-https://www.twitch.tv/diasgm_pdr <br>
 
 If you can give a little star, I appreciate it 🤩
