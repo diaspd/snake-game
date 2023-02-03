@@ -45,7 +45,7 @@ This project was developed with the following technologie:
 <br> </br>
 
 
-Feito com ♥ by Pedro Dias :wave: Me siga nas redes sociais!
-<br>
+Made with ♥ by Pedro Dias. 👋 Follow me on social media!
+<br></br>
 
 If you can give a little star, I appreciate it 🤩
