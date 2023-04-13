@@ -34,7 +34,7 @@ $ python snake.py
 
 ## 💻 Technologies
 
-This project was developed with the following technologie:
+This project was developed with the following technology:
 
 - <b> Python </b>
 
