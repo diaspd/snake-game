@@ -38,14 +38,13 @@ This project was developed with the following technology:
 
 - <b> Python </b>
 
-<br>
+<br></br>
 
 ## 📄 Project
 💰 In this project I made the classic snake game.
+
 <br> </br>
 
-
-Made with ♥ by Pedro Dias. 👋 Follow me on social media!
-<br></br>
+Made with ♥ by Pedro Dias. 👋 Follow me on social media! </br>
 
 If you can give a little star, I appreciate it 🤩
