@@ -7,7 +7,7 @@
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+---
 
 <p align="center">
   <img alt="./image.png" src="./image.png" width="40%">
